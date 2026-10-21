@@ -3,6 +3,7 @@
 Assisted in the carbon wet layup and CFD simulation of the rear and front wing, validating results against test lap data. Designed to improve the aerodynamic efficiency (Cl/Cd).
 ## Design Considerations
 - First year to have a new aerodynamic kit since 2019 <br/>
-- Budget is not large enough for prepreg or complex molding
+- Budget is not large enough for prepreg or complex molding <br/>
+- Wings must be within their respective bounding box
 ## Results
 Aerodynamic efficiency (Cl/Cd) from 1.75 to 1.96
